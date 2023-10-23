@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiale Yu"
   avatar           : "profile.png"
-  bio              : "stayfoolish stay hungry"
+  bio              : "Stay Foolish; Stay Hungry"
   location         : "Beijing, China"
-  employer         : "Beijing Jiaotong University"
+  school           : "Beijing Jiaotong University"
   pubmed           : 
   googlescholar    : 
-  email            : "21112045@bjtu.edu.cn"
+  email            :  21112045@bjtu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
