@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiale Yu. I am born in 1996 and come from Hohhot, China. I am a PHD candidate in Beijing Jiaotong University. I have received my bachelor degree and master degree at Inner Mongolia University in July 2018 and July 2021, respectively. My current research interests span computer vision and machine learning with a series of topics, such as zero-shot learning, few-shot learning, human-object interaction and visual-and-language learning. 
+My name is Jiale Yu. I am born in 1996 and come from Hohhot, China. I am a Ph.D student in Beijing Jiaotong University. I have received my bachelor degree and master degree at Inner Mongolia University in July 2018 and July 2021, respectively. My current research interests span computer vision and machine learning with a series of topics, such as zero-shot learning, few-shot learning, human-object interaction and visual-and-language learning. 
 
 A data-driven personal website
 ======
